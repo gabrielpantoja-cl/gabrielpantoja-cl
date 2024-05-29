@@ -19,8 +19,8 @@ Un ingeniero agrónomo de profesión que está estudiando programación. Apasion
 
 ### Proyectos Destacados
 
-- **Base de datos de referenciales para la tasación**: Un proyecto en curso para crear una base de datos eficiente y accesible para la tasación de propiedades.
-- **[Mapa de Referenciales]**: Estoy desarrollando una aplicación de visualización webmapping de código abierto que utiliza PostgreSQL para la base de datos y Leaflet para la representación cartográfica interactiva. El proyecto se construye con JavaScript, React y Next.js v14 para estructurar el código y optimizar la colaboración entre desarrolladores. Su objetivo es publicar y administrar datos georreferenciados sobre transacciones de suelo, creando así una base de datos colaborativa.
+
+- **Mapa de Referenciales**: Estoy desarrollando una aplicación de visualización webmapping de código abierto que utiliza PostgreSQL para la base de datos y Leaflet para la representación cartográfica interactiva. El proyecto se construye con JavaScript, React y Next.js v14 para estructurar el código y optimizar la colaboración entre desarrolladores. Su objetivo es publicar y administrar datos georreferenciados sobre transacciones de suelo, creando así una base de datos colaborativa.
 ### Contacto
 
 Puedes encontrarme y seguirme en:
