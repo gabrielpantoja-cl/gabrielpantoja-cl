@@ -8,7 +8,7 @@ Un ingeniero agrónomo de profesión que está estudiando programación. Apasion
 - 🌍 Interesado en colaborar en todo lo relacionado con el desarrollo GIS.
 - 🧠 Buscando aprender más sobre **Next.js** y **Postgres**.
 - 💬 ¡Pregúntame sobre lo que quieras!
-- 📫 Cómo contactarme: [gabrielpantoja.cl](https://gabrielpantoja.cl)
+- 📫 Mi sitio web personal: [gabrielpantoja.cl](https://gabrielpantoja.cl)
 - 🌱 Dato curioso: Soy vegano desde enero de 2016.
 
 ### Habilidades
