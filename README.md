@@ -2,19 +2,19 @@
 
 ### Soy Gabriel Pantoja
 
-Un ingeniero agrónomo de profesión que está estudiando programación. Apasionado por la tecnología y el desarrollo de soluciones innovadoras para el sector de las tasaciones.
+Un ingeniero agrónomo de profesión apasionado por la tecnología y el desarrollo de soluciones innovadoras para el sector de las tasaciones.
 
 - 🔭 Actualmente, estoy trabajando en un proyecto de base de datos de referenciales para la tasación.
 - 🌍 Interesado en colaborar en todo lo relacionado con el desarrollo GIS.
 - 🧠 Buscando aprender más sobre **Next.js** y **Postgres**.
+- 📫 Sitio web personal: [gabrielpantoja.cl](https://gabrielpantoja.cl)
 - 💬 ¡Pregúntame sobre lo que quieras!
-- 📫 Mi sitio web personal: [gabrielpantoja.cl](https://gabrielpantoja.cl)
-- 🌱 Dato curioso: Soy vegano desde enero de 2016.
+
 
 ### Habilidades
 
 - **Lenguajes de programación**: JavaScript, Python
-- **Tecnologías y Frameworks**: React, Next.js, Node.js, Postgres
+- **Tecnologías y Frameworks**: React, Next.js, Node.js, Postgres, **WordPress**
 - **GIS**: QGIS
 
 ### Proyectos Destacados
