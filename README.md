@@ -13,14 +13,15 @@ Un ingeniero agrónomo de profesión apasionado por la tecnología y el desarrol
 
 ### Habilidades
 
-Lenguajes de programación: JavaScript, TypeScript, Python
+- **Lenguajes de programación**: JavaScript, TypeScript, Python.
 - **Tecnologías y Frameworks**: React, Next.js, Node.js, Postgres, WordPress.
-- **GIS**: QGIS
+- **GIS**: QGIS.
 
 ### Proyectos Destacados
 
  [Referenciales.cl](https://referenciales.cl)
-- **Mapa de Referenciales**: Estoy desarrollando una aplicación de visualización webmapping de código abierto que utiliza PostgreSQL para la base de datos y Leaflet para la representación cartográfica interactiva. El proyecto se construye con JavaScript, React y Next.js v14 para estructurar el código y optimizar la colaboración entre desarrolladores. Su objetivo es publicar y administrar datos georreferenciados sobre transacciones de suelo, creando así una base de datos colaborativa.
+- **Mapa de Referenciales**: Desarrollo una aplicación de visualización webmapping de código abierto que utiliza PostgreSQL para la base de datos y Leaflet para la representación cartográfica interactiva. El proyecto está construido principalmente en TypeScript, junto con JavaScript, React y Next.js v14.2 para estructurar el código y optimizar la colaboración entre desarrolladores. Su objetivo es publicar y administrar datos georreferenciados sobre transacciones de suelo, creando así una base de datos colaborativa.
+
 ### Contacto
 
 Puedes encontrarme y seguirme en:
