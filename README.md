@@ -13,7 +13,7 @@ Un ingeniero agrónomo de profesión apasionado por la tecnología y el desarrol
 
 ### Habilidades
 
-- **Lenguajes de programación**: JavaScript, Python
+Lenguajes de programación: JavaScript, TypeScript, Python
 - **Tecnologías y Frameworks**: React, Next.js, Node.js, Postgres, WordPress.
 - **GIS**: QGIS
 
