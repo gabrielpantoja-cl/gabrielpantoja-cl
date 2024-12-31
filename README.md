@@ -4,7 +4,6 @@
 
 Un ingeniero agrónomo de profesión apasionado por la tecnología y el desarrollo de soluciones innovadoras para el sector de las tasaciones.
 
-- 🔭 Actualmente, estoy trabajando en un proyecto de base de datos de referenciales para la tasación.
 - 🌍 Interesado en colaborar en todo lo relacionado con el desarrollo GIS.
 - 🧠 Buscando aprender más sobre **Next.js** y **Postgres**.
 - 📫 Sitio web personal: [gabrielpantoja.cl](https://gabrielpantoja.cl)
@@ -17,10 +16,6 @@ Un ingeniero agrónomo de profesión apasionado por la tecnología y el desarrol
 - **Tecnologías y Frameworks**: React, Next.js, Node.js, Postgres, WordPress.
 - **GIS**: QGIS.
 
-### Proyectos Destacados
-
- [Referenciales.cl](https://referenciales.cl)
-- **Mapa de Referenciales**: Desarrollo una aplicación de visualización webmapping de código abierto que utiliza PostgreSQL para la base de datos y Leaflet para la representación cartográfica interactiva. El proyecto está construido principalmente en TypeScript, junto con JavaScript, React y Next.js v14.2 para estructurar el código y optimizar la colaboración entre desarrolladores. Su objetivo es publicar y administrar datos georreferenciados sobre transacciones de suelo, creando así una base de datos colaborativa.
 
 ### Contacto
 
