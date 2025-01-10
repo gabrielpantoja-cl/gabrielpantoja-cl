@@ -20,10 +20,6 @@ A real-time collaborative database for property transactions in Chile, empowerin
 - **Tecnologías y Frameworks**: React, Next.js, Node.js, Postgres, WordPress.
 - **GIS**: QGIS.
 
-### Featured Project: Reference Map
-
-### Contacto
-
 ### How to Contribute
 
 1. Visit [referenciales.cl](https://referenciales.cl)
