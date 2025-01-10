@@ -20,6 +20,27 @@ A real-time collaborative database for property transactions in Chile, empowerin
 - **Tecnologías y Frameworks**: React, Next.js, Node.js, Postgres, WordPress.
 - **GIS**: QGIS.
 
-### How to Contribute
+### Main Project: Reference Map 🗺️
 
-1. Visit [referenciales.cl](https://referenciales.cl)
+#### 🚀 Features In Development
+
+- 📊 Live transaction data visualization
+- 🎯 Precision valuation tools
+- 🔍 Advanced search filters
+- 🤝 Community-validated data points
+- ⚡ More features coming soon...
+
+_Currently in active development - Join us in shaping these features!_
+#### Technical Features
+- 🛠️ Built with Next.js and PostgreSQL
+- 🌐 GIS-powered mapping interface
+- 📱 Responsive web design
+- 🔐 Secure data validation system
+
+#### Start Using
+1. Access [referenciales.cl](https://referenciales.cl)
+2. Browse the reference map
+3. Search property transactions
+4. Join our data community
+
+[Explore Reference Map →](https://referenciales.cl/map)
