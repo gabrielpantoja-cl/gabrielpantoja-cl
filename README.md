@@ -43,4 +43,3 @@ _Currently in active development - Join us in shaping these features!_
 3. Search property transactions
 4. Join our data community
 
-[Explore Reference Map →](https://referenciales.cl/map)
