@@ -1,24 +1,29 @@
-## Welcome to Referenciales.cl Ⓡ
+## Welcome to TheCuriousSloth's GitHub Ⓡ
+
+A hub for my programming projects, showcasing my expertise and interests in various technologies.
+
+### About Me
+
+- 🌍 Passionate about collaborative GIS solutions
+- 🧠 Expertise in **Next.js**, **PostgreSQL**, and **JavaScript**
+- 📊 Advocate for transparent and open data
+- 💬 Open to community contributions and collaborations
+
+### My Interests
+
+- 🗺️ GIS-based applications
+- 📊 Real-time data visualization
+- 📈 Advanced data analysis tools
+- 🤝 Collaborative software development
+- 🔍 Building efficient search algorithms
+
+### Featured Projects
+
+#### Project: Reference Map 🗺️
 
 A collaborative database for property transactions in Chile, empowering real estate appraisers with transparent market data.
 
-### Our Mission
-
-- 🌍 Collaborative GIS solutions for real estate
-- 🧠 Expertise in **Next.js** and **PostgreSQL**
-- 📊 Transparent market data through collaboration
-- 💬 Open to community contributions
-
-### What We Offer
-
-- 🗺️ GIS-based reference maps
-- 📊 Real-time transaction data
-- 📈 Advanced visualization tools
-- 🤝 Collaborative data validation
-
-### Main Project: Reference Map 🗺️
-
-#### Features In Development
+##### Features In Development
 
 - 📊 Live transaction visualization
 - 🎯 Precision valuation tools
@@ -35,9 +40,9 @@ _Currently in active development - Join us in shaping these features!_
 - 📱 Responsive design
 - 🔐 Secure data validation
 
-#### Start Using
+### How to Get Started
 
-1. Visit [referenciales.cl](https://referenciales.cl)
-2. Browse the reference map
-3. Search property transactions
-4. Join our data community
+1. Visit my GitHub profile [TheCuriousSloth](https://github.com/TheCuriousSloth)
+2. Explore my repositories
+3. Contribute to ongoing projects
+4. Connect with me for collaborations
