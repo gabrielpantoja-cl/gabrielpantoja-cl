@@ -1,4 +1,4 @@
-## Welcome to TheCuriousSloth's GitHub Ⓡ
+## Welcome to TheCuriousSloth's GitHub
 
 A hub for my programming projects, showcasing my expertise and interests in various technologies.
 
