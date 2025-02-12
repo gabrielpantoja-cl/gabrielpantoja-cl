@@ -21,7 +21,7 @@ A hub for my programming projects, showcasing my expertise and interests in vari
 
 #### Project: Reference Map 🗺️
 
-A collaborative database for property transactions in Chile, empowering real estate appraisers with transparent market data. Visit the project at <a href="https://referenciales.cl/" target="_blank">https://referenciales.cl/</a>
+A collaborative database for property transactions in Chile, empowering real estate appraisers with transparent market data. Visit the project at 👉🏻 <a href="https://referenciales.cl/" target="_blank">https://referenciales.cl/</a>
 
 ##### Features In Development
 
