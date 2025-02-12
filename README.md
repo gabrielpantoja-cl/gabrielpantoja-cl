@@ -42,7 +42,8 @@ _Currently in active development - Join us in shaping these features!_
 
 ### How to Get Started
 
-1. Visit my GitHub profile [TheCuriousSloth](https://github.com/TheCuriousSloth)
-2. Explore my repositories
-3. Contribute to ongoing projects
-4. Connect with me for collaborations
+1. Explore my repositories to see my projects
+2. Check out the README files for detailed information on each project
+3. Fork and contribute to ongoing projects
+4. Open issues or pull requests for improvements
+5. Connect with me for collaborations and discussions
