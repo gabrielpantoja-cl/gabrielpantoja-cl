@@ -1,49 +1,46 @@
-## Welcome to TheCuriousSloth's GitHub
-
-A hub for my programming projects, showcasing my expertise and interests in various technologies.
+# Gabriel Pantoja | Full-Stack Developer specializing in PropTech & Real Estate Data
 
 ### About Me
 
-- 🌍 Passionate about collaborative GIS solutions
-- 🧠 Expertise in **Next.js**, **PostgreSQL**, and **JavaScript**
-- 📊 Advocate for transparent and open data
-- 💬 Open to community contributions and collaborations
+With over a decade of experience as a Real Estate Appraiser in Chile, I witnessed firsthand how valuable public data becomes fragmented and inaccessible, often trapped in countless spreadsheets and difficult-to-access public records. This challenge drove my transition into web development.
 
-### My Interests
+Today, I build the tools I wish I had: data-driven, transparent, and efficient PropTech solutions. My goal is to empower real estate professionals and bring clarity to the market through technology.
 
-- 🗺️ GIS-based applications
-- 📊 Real-time data visualization
-- 📈 Advanced data analysis tools
-- 🤝 Collaborative software development
-- 🔍 Building efficient search algorithms
+---
 
-### Featured Projects
+### My Tech Stack
 
-#### Project: Reference Map 🗺️
+*   **Core:** TypeScript, Next.js, React, Node.js
+*   **Databases:** PostgreSQL (leveraging Supabase & Neon)
+*   **Tools & ORMs:** Prisma, Vite, Leaflet (for GIS)
+*   **Deployment:** Vercel
 
-A collaborative database for property transactions in Chile, empowering real estate appraisers with transparent market data. Visit the project at 👉🏻 <a href="https://referenciales.cl/" target="_blank">https://referenciales.cl/</a>
+---
 
-##### Features In Development
+### My Work
 
-- 📊 Live transaction visualization
-- 🎯 Precision valuation tools
-- 🔍 Advanced search filters
-- 🤝 Community-validated data points
-- ⚡ More features coming soon...
+#### 🚀 [Referenciales.cl](https://referenciales.cl/)
+A collaborative, open-source database for property transactions in Chile. This project is my direct answer to the data fragmentation problem, designed to provide appraisers and professionals with transparent, reliable market data.
 
-_Currently in active development - Join us in shaping these features!_
+#### 🏡 [PantojaPropiedades.cl](https://pantojapropiedades.cl/)
+More than a real estate brokerage, this is a PropTech venture built with an **AI-first** approach. We are developing our own custom CRM to redefine property management and sales in southern Chile.
 
-#### Technical Features
+#### 👨🏻‍💻 [GabrielPantoja.cl](https://gabrielpantoja.cl/)
+My personal and professional hub, showcasing my journey and projects.
 
-- 🛠️ Built with Next.js and PostgreSQL
-- 🌐 GIS-powered mapping
-- 📱 Responsive design
-- 🔐 Secure data validation
+---
 
-### How to Get Started
+### My Philosophy
 
-1. Explore my repositories to see my projects
-2. Check out the README files for detailed information on each project
-3. Fork and contribute to ongoing projects
-4. Open issues or pull requests for improvements
-5. Connect with me for collaborations and discussions
+I am a strong advocate for:
+*   🌐 Open-source and collaborative development.
+*   📊 Data transparency and quality.
+*   💡 Building disruptive technology that benefits the many.
+
+---
+
+### Let's Connect
+
+I'm always open to connecting with fellow developers, entrepreneurs, and PropTech enthusiasts. Let's talk about the future of real estate.
+
+*   **LinkedIn:** [https://www.linkedin.com/in/gapantoj/](https://www.linkedin.com/in/gapantoj/)
