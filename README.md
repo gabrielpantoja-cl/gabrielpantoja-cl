@@ -30,7 +30,7 @@ More than a real estate brokerage, this is a PropTech venture built with an **AI
 My personal and professional hub, showcasing my journey from real estate appraiser to full-stack developer. Built with modern web technologies, it serves as both portfolio and technical demonstration, featuring responsive design, performance optimization, and seamless user experience across devices.
 
 #### 🎮 [Luanti.GabrielPantoja.cl](https://luanti.gabrielpantoja.cl/)
-A production-ready Luanti server demonstrating practical DevOps skills: Linux VPS management, security hardening, monitoring, automated backups, and service optimization. This 24/7 infrastructure project showcases the same operational expertise that powers modern web applications.
+A production-ready Luanti server showcasing DevOps and infrastructure management: Linux VPS administration, security hardening, and 24/7 service monitoring.
 
 ---
 
