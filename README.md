@@ -27,17 +27,10 @@ A collaborative, open-source database for property transactions in Chile. This p
 More than a real estate brokerage, this is a PropTech venture built with an **AI-first** approach. We are developing our own custom CRM to redefine property management and sales in southern Chile.
 
 #### 👨🏻‍💻 [GabrielPantoja.cl](https://gabrielpantoja.cl/)
-My personal and professional hub, showcasing my journey and projects.
+My personal and professional hub, showcasing my journey from real estate appraiser to full-stack developer. Built with modern web technologies, it serves as both portfolio and technical demonstration, featuring responsive design, performance optimization, and seamless user experience across devices.
 
 #### 🎮 [Luanti.GabrielPantoja.cl](https://luanti.gabrielpantoja.cl/)
-A production-ready Luanti (formerly Minetest) server that serves as my hands-on DevOps and server administration playground. This project demonstrates practical infrastructure skills including:
-*   **Linux VPS Management:** Ubuntu server configuration and maintenance
-*   **Security Hardening:** Firewall configuration, SSH key management, fail2ban implementation
-*   **Monitoring & Reliability:** System health monitoring, automated backups, uptime tracking
-*   **Service Management:** Systemd service configuration, process monitoring, log management
-*   **Performance Optimization:** Resource allocation, memory management, network optimization
-
-This server runs 24/7, providing real-world experience in maintaining production infrastructure and demonstrating the same operational skills that power web applications at scale.
+A production-ready Luanti server demonstrating practical DevOps skills: Linux VPS management, security hardening, monitoring, automated backups, and service optimization. This 24/7 infrastructure project showcases the same operational expertise that powers modern web applications.
 
 ---
 
