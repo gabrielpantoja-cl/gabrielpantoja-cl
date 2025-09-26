@@ -13,7 +13,8 @@ Today, I build the tools I wish I had: data-driven, transparent, and efficient P
 *   **Core:** TypeScript, Next.js, React, Node.js
 *   **Databases:** PostgreSQL (leveraging Supabase & Neon)
 *   **Tools & ORMs:** Prisma, Vite, Leaflet (for GIS)
-*   **Deployment:** Vercel
+*   **Infrastructure:** Linux Server Administration, VPS Management, Docker
+*   **Deployment:** Vercel, Self-hosted solutions
 
 ---
 
@@ -28,6 +29,16 @@ More than a real estate brokerage, this is a PropTech venture built with an **AI
 #### 👨🏻‍💻 [GabrielPantoja.cl](https://gabrielpantoja.cl/)
 My personal and professional hub, showcasing my journey and projects.
 
+#### 🎮 [Luanti.GabrielPantoja.cl](https://luanti.gabrielpantoja.cl/)
+A production-ready Luanti (formerly Minetest) server that serves as my hands-on DevOps and server administration playground. This project demonstrates practical infrastructure skills including:
+*   **Linux VPS Management:** Ubuntu server configuration and maintenance
+*   **Security Hardening:** Firewall configuration, SSH key management, fail2ban implementation
+*   **Monitoring & Reliability:** System health monitoring, automated backups, uptime tracking
+*   **Service Management:** Systemd service configuration, process monitoring, log management
+*   **Performance Optimization:** Resource allocation, memory management, network optimization
+
+This server runs 24/7, providing real-world experience in maintaining production infrastructure and demonstrating the same operational skills that power web applications at scale.
+
 ---
 
 ### My Philosophy
@@ -36,6 +47,7 @@ I am a strong advocate for:
 *   🌐 Open-source and collaborative development.
 *   📊 Data transparency and quality.
 *   💡 Building disruptive technology that benefits the many.
+*   🛠️ Hands-on learning and practical experience in production environments.
 
 ---
 
