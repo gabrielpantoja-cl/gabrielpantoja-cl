@@ -1,10 +1,10 @@
-# Gabriel Pantoja | Full-Stack Developer specializing in PropTech & Real Estate Data
+# Gabriel Pantoja | PropTech & Real Estate Data
 
 ### About Me
 
-With over a decade of experience as a Real Estate Appraiser in Chile, I witnessed firsthand how valuable public data becomes fragmented and inaccessible, often trapped in countless spreadsheets and difficult-to-access public records. This challenge drove my transition into web development.
+With a decade of experience as a Real Estate Appraiser in Chile, I witnessed firsthand how valuable public data becomes fragmented and inaccessible. This challenge drove my transition into technology.
 
-Today, I build the tools I wish I had: data-driven, transparent, and efficient PropTech solutions. My goal is to empower real estate professionals and bring clarity to the market through technology.
+Today, I build the data-driven PropTech tools I wish I had, aiming to empower real estate professionals and bring clarity to the market.
 
 ---
 
@@ -27,7 +27,7 @@ A collaborative, open-source database for property transactions in Chile. This p
 More than a real estate brokerage, this is a PropTech venture built with an **AI-first** approach. We are developing our own custom CRM to redefine property management and sales in southern Chile.
 
 #### 👨🏻‍💻 [GabrielPantoja.cl](https://gabrielpantoja.cl/)
-My personal and professional hub showcasing my transition from real estate appraiser to full-stack developer. Built with modern web technologies as both portfolio and technical demonstration.
+My personal and professional hub showcasing my transition from real estate appraiser to tech professional. Built with modern web technologies as both portfolio and technical demonstration.
 
 #### 🎮 [Luanti.GabrielPantoja.cl](https://luanti.gabrielpantoja.cl/)
 A production-ready Luanti server showcasing DevOps and infrastructure management: Linux VPS administration, security hardening, and 24/7 service monitoring.
@@ -36,11 +36,10 @@ A production-ready Luanti server showcasing DevOps and infrastructure management
 
 ### My Philosophy
 
-I am a strong advocate for:
-*   🌐 Open-source and collaborative development.
-*   📊 Data transparency and quality.
-*   💡 Building disruptive technology that benefits the many.
-*   🛠️ Hands-on learning and practical experience in production environments.
+*   🌐 Open-Source & Collaboration
+*   📊 Data Transparency & Quality
+*   💡 Disruptive & Beneficial Technology
+*   🛠️ Hands-on Learning & Production Experience
 
 ---
 
