@@ -20,9 +20,6 @@ Today, I build the data-driven PropTech tools I wish I had, aiming to empower re
 
 ### My Work
 
-#### 🚀 [Referenciales.cl](https://referenciales.cl/)
-A collaborative, open-source database for property transactions in Chile. This project is my direct answer to the data fragmentation problem, designed to provide appraisers and professionals with transparent, reliable market data.
-
 #### 🏡 [PantojaPropiedades.cl](https://pantojapropiedades.cl/)
 More than a real estate brokerage, this is a PropTech venture built with an **AI-first** approach. We are developing our own custom CRM to redefine property management and sales in southern Chile.
 
