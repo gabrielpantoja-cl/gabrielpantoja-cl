@@ -1,47 +1,13 @@
-# Gabriel Pantoja | PropTech & Real Estate Data
+# Gabriel Pantoja
 
-### About Me
-
-With a decade of experience as a Real Estate Appraiser in Chile, I witnessed firsthand how valuable public data becomes fragmented and inaccessible. This challenge drove my transition into technology.
-
-Today, I build the data-driven PropTech tools I wish I had, aiming to empower real estate professionals and bring clarity to the market.
+Building PropTech tools from a real estate appraisal background · Chile
 
 ---
 
-### My Tech Stack
-
-*   **Core:** TypeScript, Next.js, React, Node.js
-*   **Databases:** PostgreSQL (leveraging Supabase & Neon)
-*   **Tools & ORMs:** Prisma, Vite, Leaflet (for GIS)
-*   **Infrastructure:** Linux Server Administration, VPS Management, Docker
-*   **Deployment:** Vercel, Self-hosted solutions
-
----
-
-### My Work
-
-#### 🏡 [PantojaPropiedades.cl](https://pantojapropiedades.cl/)
-More than a real estate brokerage, this is a PropTech venture built with an **AI-first** approach. We are developing our own custom CRM to redefine property management and sales in southern Chile.
-
-#### 👨🏻‍💻 [GabrielPantoja.cl](https://gabrielpantoja.cl/)
-My personal and professional hub showcasing my transition from real estate appraiser to tech professional. Built with modern web technologies as both portfolio and technical demonstration.
-
-#### 🎮 [Luanti.GabrielPantoja.cl](https://luanti.gabrielpantoja.cl/)
-A production-ready Luanti server showcasing DevOps and infrastructure management: Linux VPS administration, security hardening, and 24/7 service monitoring.
-
----
-
-### My Philosophy
-
-*   🌐 Open-Source & Collaboration
-*   📊 Data Transparency & Quality
-*   💡 Disruptive & Beneficial Technology
-*   🛠️ Hands-on Learning & Production Experience
-
----
-
-### Let's Connect
-
-I'm always open to connecting with fellow developers, entrepreneurs, and PropTech enthusiasts. Let's talk about the future of real estate.
-
-*   **LinkedIn:** [https://www.linkedin.com/in/gapantoj/](https://www.linkedin.com/in/gapantoj/)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
